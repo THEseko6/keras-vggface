@@ -11,8 +11,6 @@ Oxford VGGFace  Implementation using Keras Functional Framework v2+
 ~~~bash
 # Most Recent One (Suggested)
 pip install git+https://github.com/THEseko6/keras-vggface.git
-# Release Version
-pip install keras_vggface
 ~~~
 
 
